@@ -15,4 +15,4 @@ Plotted, visualized, analyzed and conducted predictive modeling on a NYPD Shooti
 ## Project Status
 Project is: _complete_
 ## Room for Improvement
--Rather than focus on my subconscious bias, I could have gone around that and focused my analysis on other countries than India, Japan and Canada.
+-I wouldnt have let my personal bias about what I already knew about NY shootings affect the variables I chose to focus on- instead, I could have focused analyzing variables such as the age/sex of the perpetrators.
